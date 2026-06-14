@@ -1,0 +1,10 @@
+Manikanta,98
+Nani,98
+Shashi,78
+Varshi,76
+Siddu,98
+Rohan,78
+Vekatesh,56
+Arjun,89
+Justin,96
+vekat,76
